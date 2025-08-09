@@ -8,7 +8,7 @@
 
 ### My Streak Stats
 
-![Your GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Priya584&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Priya584&theme=radical&date=2025-08-09)
 
 ---
 
