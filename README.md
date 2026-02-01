@@ -3,13 +3,6 @@
   # Hi there 👋
 
   <div style="margin: 20px auto;">
-    <h3>My GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Priya584&show_icons=true&theme=buefy" alt="Priya's GitHub Stats" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
-  </div>
-
-  <hr style="border: 1px solid #333; margin: 30px auto;" />
-
-  <div style="margin: 20px auto;">
     <h3>My Technical Skills</h3>
   </div>
 
@@ -113,9 +106,4 @@
   </div>
 </div>
 
----
 
-<div align="center">
-  <h3>My Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya584&theme=github-dark" alt="Priya's GitHub Activity Graph" style="max-width: 100%; height: auto;" />
-</div>
